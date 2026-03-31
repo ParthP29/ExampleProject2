@@ -13,7 +13,7 @@ def print_how_to():
 
 def main():
     print_how_to()
-    for _ in range(10):
+    for _ in range(20):
         flip_a_coin()
 
 main()
