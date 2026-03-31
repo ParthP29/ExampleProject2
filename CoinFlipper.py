@@ -16,4 +16,6 @@ def main():
     for _ in range(20):
         flip_a_coin()
 
+print("Thanks for playing the coin flipper")
+
 main()
